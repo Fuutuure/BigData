@@ -1,4 +1,4 @@
-**Why the pollution index should be included in weather reports**
+Why the pollution index should be included in weather reports
 Air pollution is a prominent issue in several parts of the world such as Bejing, Los Angeles, 
 
 [Reputably sourced Earth air pollution map](https://earth.nullschool.net/#current/chem/surface/level/overlay=so2smass/orthographic=-60.32,2.21,406)
